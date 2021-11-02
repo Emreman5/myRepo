@@ -1,0 +1,13 @@
+C:\Users\emre1\source\repos\MySolution\Entity\bin\Debug\netcoreapp3.1\Entity.deps.json
+C:\Users\emre1\source\repos\MySolution\Entity\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\emre1\source\repos\MySolution\Entity\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\emre1\source\repos\MySolution\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.AssemblyReference.cache
+C:\Users\emre1\source\repos\MySolution\Entity\obj\Debug\netcoreapp3.1\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre1\source\repos\MySolution\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfoInputs.cache
+C:\Users\emre1\source\repos\MySolution\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfo.cs
+C:\Users\emre1\source\repos\MySolution\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\emre1\source\repos\MySolution\Entity\obj\Debug\netcoreapp3.1\Entity.dll
+C:\Users\emre1\source\repos\MySolution\Entity\obj\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\emre1\source\repos\MySolution\Entity\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\emre1\source\repos\MySolution\Entity\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\emre1\source\repos\MySolution\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CopyComplete
