@@ -68,4 +68,3 @@ C:\Users\emre1\source\repos\MySolution\ConsoleUI\obj\Debug\netcoreapp3.1\Console
 C:\Users\emre1\source\repos\MySolution\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
 C:\Users\emre1\source\repos\MySolution\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
 C:\Users\emre1\source\repos\MySolution\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
-C:\Users\emre1\source\repos\MySolution\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
