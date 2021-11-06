@@ -17,16 +17,18 @@ namespace ConsoleUI
             CategoryManager categoryManager = new CategoryManager(new EFCategoryDal());
             NorthwindContext context = new NorthwindContext();
 
-            //foreach (var item in productManager.GetProductDetail())
-            //{
-            //    Console.WriteLine("{0}----{1}----{2}",item.ProductId,item.ProductName,item.CategoryName);
-            //}
-            var result = productManager.GetAll().Data;
-            foreach (var item in result)
-            {
-                Console.WriteLine(item.ProductName);
-            }
+            var result = productManager.GetById(3);
+            Console.WriteLine(result.Data.ProductName);
+          
 
+        }
+        public static bool Equals(int a, int b)
+        {
+            if (Math.Sqrt(a * b) is float)
+            {
+                return false;
+            }
+            return true;
         }
     }
 }
