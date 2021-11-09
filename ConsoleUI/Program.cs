@@ -22,13 +22,7 @@ namespace ConsoleUI
           
 
         }
-        public static bool Equals(int a, int b)
-        {
-            if (Math.Sqrt(a * b) is float)
-            {
-                return false;
-            }
-            return true;
+        
         }
     }
-}
+

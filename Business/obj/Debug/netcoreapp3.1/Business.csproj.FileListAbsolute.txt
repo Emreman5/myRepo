@@ -14,4 +14,3 @@ C:\Users\emre1\source\repos\MySolution\Business\obj\Debug\netcoreapp3.1\Business
 C:\Users\emre1\source\repos\MySolution\Business\obj\Debug\netcoreapp3.1\Business.pdb
 C:\Users\emre1\source\repos\MySolution\Business\bin\Debug\netcoreapp3.1\Core.dll
 C:\Users\emre1\source\repos\MySolution\Business\bin\Debug\netcoreapp3.1\Core.pdb
-C:\Users\emre1\source\repos\MySolution\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
