@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "V9tLCFkF2HuktVEzfgDYelPVhj6rh87vq+cciJFZhg/k8TlKPjwLvbu8XazFBKoIqQ1BK6O2CT71CfJJn4MGxA==",
+  "dgSpecHash": "Lk/gawjd/aLBY84U0t+Sb/z/UtzYnrk0o5Wp3QE9ayXp9wN2gH9eifa3VrsxrEPV8cszuTzvwh6dM8ZpHhVAHA==",
   "success": true,
   "projectFilePath": "C:\\Users\\emre1\\source\\repos\\MySolution\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emre1\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\emre1\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
     "C:\\Users\\emre1\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\emre1\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\emre1\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",
     "C:\\Users\\emre1\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\emre1\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\emre1\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
