@@ -70,6 +70,10 @@ C:\Users\emre1\source\repos\MySolution\WebAPI\bin\Debug\netcoreapp3.1\Entity.pdb
 C:\Users\emre1\source\repos\MySolution\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
 C:\Users\emre1\source\repos\MySolution\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
 C:\Users\emre1\source\repos\MySolution\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
-C:\Users\emre1\source\repos\MySolution\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
 C:\Users\emre1\source\repos\MySolution\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
 C:\Users\emre1\source\repos\MySolution\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\emre1\source\repos\MySolution\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\emre1\source\repos\MySolution\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\emre1\source\repos\MySolution\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\emre1\source\repos\MySolution\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emre1\source\repos\MySolution\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
