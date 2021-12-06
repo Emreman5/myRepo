@@ -24,20 +24,10 @@ namespace Business.Concrete
             _productDal = productDal;
             _categoryService = categoryService;
         }
-
-        
-        [SecuredOperation("product.add,admin")]
-        [ValidationAspect(typeof(ProductValidator))]
+        [SecuredOperation("admin,product.add")]
         public IResult Add(Product product)
         {
-           var result= BusinessRules.Run(CheckIfProductCountOfCategoryCorrect(product.CategoryId),
-                CheckIsNameOk(product.ProductName),
-                IsMaxCategoryExceed());
-           if (result!=null)
-           {
-               return result;
-           }
-           _productDal.Add(product);
+            _productDal.Add(product);
            return new SuccessResult(Messages.ProductAdded);
         }
 
