@@ -1,4 +1,5 @@
-﻿using Business.Abstract;
+﻿using System.Threading;
+using Business.Abstract;
 using Entity.Concrete;
 using Microsoft.AspNetCore.Mvc;
 
@@ -17,7 +18,7 @@ namespace WebAPI.Controllers
         [HttpGet("getall")]
         public IActionResult GetAll()
         {
-
+            Thread.Sleep(2000);
             var result = _productService.GetAll();
             if (result.Success)
             {

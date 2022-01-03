@@ -10,6 +10,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using Business.BusinessAspect.Autofac;
+using Core.Aspects.Autofac.Caching;
 using Core.Utilities.Business;
 
 namespace Business.Concrete
@@ -59,7 +60,7 @@ namespace Business.Concrete
             }
             return new DataResult<List<ProductDetailDTo>>(_productDal.GetProductDetails(),true,Messages.ProductsListed);
         }
-
+  [CachingAspect.CacheAspect]
         private IResult CheckIfProductCountOfCategoryCorrect(int categoryId)
         {
             if (_productDal.GetAll(p=>p.CategoryId==categoryId).Count>=10)

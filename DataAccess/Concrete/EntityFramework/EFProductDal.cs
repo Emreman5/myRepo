@@ -2,14 +2,12 @@
 using DataAccess.Abstract;
 using Entity.Concrete;
 using Entity.DTOs;
-using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Linq;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EFProductDal : EfEntityRepository<Product, NorthwindContext>, IProductDal
+    public class EfProductDal : EfEntityRepository<Product, NorthwindContext>, IProductDal
     {
         public List<ProductDetailDTo> GetProductDetails()
         {
